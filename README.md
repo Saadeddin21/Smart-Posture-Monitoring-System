@@ -4,7 +4,7 @@
 A low-cost smart posture monitoring system that helps users maintain correct sitting posture using real-time sensor data and mobile feedback.
 
 <p align="center">
-  <img src="docs/Picture2.png" width="250"/>
+  <img src="mobile-app/docs/Picture2.png" width="250"/>
 </p>
 
 ---
@@ -42,7 +42,6 @@ The system consists of:
 - Battery (Li-ion / Li-Po)  
 - Bluetooth Module
 - 3.3V Voltage Regulator
-- Jumper wires  
 
 ---
 
@@ -80,13 +79,17 @@ It connects to the device via Bluetooth and allows the user to monitor posture s
 ### Arduino
 1. Open `posture_guard.ino` using Arduino IDE  
 2. Select the correct board and port  
-3. Upload the code to Arduino Nano  
+3. Upload the code to Arduino Nano
 
-### Mobile App
-```bash
+
+## 🔩 Mobile App
+
+  ```bash
 cd mobile-app
 npm install
 npx expo start
+
+  ```
 
 ---
 
