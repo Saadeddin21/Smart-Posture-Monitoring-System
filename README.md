@@ -4,7 +4,7 @@
 A low-cost smart posture monitoring system that helps users maintain correct sitting posture using real-time sensor data and mobile feedback.
 
 <p align="center">
-  <img src="mobile-app/docs/Picture2.png" width="250"/>
+  <img src="mobile-app/docs/Picture2.png" width="500"/>
 </p>
 
 ---
@@ -24,8 +24,8 @@ It is designed especially for:
 ## 🛠️ System Architecture
 
 <p align="center">
-  <img src="docs/Picture1.png" width="500"/>
-  <img src="docs/Picture2.png" width="500"/>
+  <img src="mobile-app/docs/Picture1.png" width="500"/>
+  <img src="mobile-app/docs/Picture3.png" width="500"/>
 </p>
 
 The system consists of:
@@ -51,10 +51,10 @@ The mobile application was developed using **React Native with Expo**.
 It connects to the device via Bluetooth and allows the user to monitor posture status in real time.
 
 <p align="center">
-  <img src="Screen-Shots/Home_tab.jpg" width="250"/>
-  <img src="Screen-Shots/Calendar_tab.jpg" width="250"/>
-  <img src="Screen-Shots/Profile_tab.jpg" width="250"/>
-  <img src="Screen-Shots/Settings_tab.jpg" width="250"/>
+  <img src="Screen-Shots/Home_tab.jpg" width="230"/>
+  <img src="Screen-Shots/Calendar_tab.jpg" width="230"/>
+  <img src="Screen-Shots/Profile_tab.jpg" width="230"/>
+  <img src="Screen-Shots/Settings_tab.jpg" width="230"/>
 </p>
 
 ### Mobile App Features
